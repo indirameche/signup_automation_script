@@ -1,0 +1,10 @@
+{
+  "name": "signup-automation",
+  "version": "1.0.0",
+  "description": "QA Automation for SignUp flow",
+  "type": "module",
+  "main": "automation.js",
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}

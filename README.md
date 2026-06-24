@@ -29,7 +29,8 @@ o	automation.js – Main automation script
 o	temp-mail.js – Generates a temporary email address and retrieves the OTP for email verification
 o	package.json – Contains the project metadata and dependencies
 
-# Note: The script runs in headed mode (headless: false) by default. This can be changed in automation.js if headless execution is preferred.
+# Note: 
+The script runs in headed mode (headless: false) by default. This can be changed in automation.js if headless execution is preferred.
 
 # 3. Were any test data or accounts used?
 Answer:

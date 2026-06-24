@@ -9,7 +9,7 @@ npm install
 4.	Install the Playwright browsers (if they are not already installed):
 npx playwright install
 5.	Run the automation script:
-node automation.js
+"node automation.js" command
 Prerequisites:
 •	Node.js version 18 or higher
 •	Stable internet connection
